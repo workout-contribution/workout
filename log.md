@@ -15,28 +15,28 @@ layout: about
 - [x] 7
 - [ ] 8
 - [ ] 9
-- [ ] 10&nbsp;&nbsp;&nbsp;8-10三日轻感冒
-- [x] 11&nbsp;&nbsp;&nbsp;胸肌力量，手臂力量，跑步机&nbsp;&nbsp;&nbsp;12号补
-- [x] 12&nbsp;&nbsp;&nbsp;胸肌力量，腹肌力量
-- [ ] 13
-- [ ] 14
-- [ ] 15
-- [ ] 16
-- [ ] 17
-- [ ] 18
-- [ ] 19
-- [ ] 20
-- [ ] 21
-- [ ] 22
-- [ ] 23
-- [ ] 24
-- [ ] 25
-- [ ] 26
-- [ ] 27
-- [ ] 28
-- [ ] 29
-- [ ] 30
-- [ ] 31
+- [ ] 10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8-10三日轻感冒
+- [x] 11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;胸肌力量，手臂力量，跑步机&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12号补
+- [x] 12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;胸肌力量，腹肌力量
+- [ ] 13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 28&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 29&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 31&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## November
 - [ ] 1
