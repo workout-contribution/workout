@@ -18,7 +18,7 @@ layout: about
 - [ ] 10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8-10三日轻感冒
 - [x] 11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;胸肌力量，手臂力量，跑步机&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12号补
 - [x] 12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;胸肌力量，腹肌力量
-- [ ] 13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;胸肌力量，腿部力量
 - [ ] 14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
