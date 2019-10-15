@@ -20,7 +20,7 @@
 - [x] 12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;胸肌力量，腹肌力量
 - [x] 13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;胸肌力量，腿部力量
 - [x] 14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;胸肌，腿部，跑步，台球
-- [ ] 15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;胸肌，腿部，台球
 - [ ] 16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
