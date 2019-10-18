@@ -23,7 +23,7 @@
 - [x] 15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;胸肌，腿部，台球
 - [x] 16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，腹部，胸肌
 - [ ] 17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- [ ] 18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
