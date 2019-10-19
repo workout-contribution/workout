@@ -24,7 +24,7 @@
 - [x] 16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，腹部，胸肌
 - [ ] 17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [x] 18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跑步，锤哥全身训练法，坐位体前屈，台球不可少
-- [ ] 19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跑步，腿部拉伸，跆拳道腿法训练，胸肌力量
 - [ ] 20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
