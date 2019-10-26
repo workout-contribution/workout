@@ -28,9 +28,9 @@
 - [ ] 20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- [ ] 23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- [ ] 24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- [ ] 25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跑步，拉伸
+- [x] 24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跑步，拉伸
+- [x] 25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跑步，拉伸
 - [ ] 26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 28&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
