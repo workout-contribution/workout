@@ -33,7 +33,7 @@
 - [x] 25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跑步，拉伸
 - [ ] 26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [x] 27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;乒乓球，台球运动
-- [ ] 28&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 28&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;俯卧撑，仰卧起坐
 - [ ] 29&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 31&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
