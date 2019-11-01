@@ -36,10 +36,9 @@
 - [x] 28&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;俯卧撑，仰卧起坐
 - [x] 29&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跑步，锤哥全身训练法，胸肌力量
 - [x] 30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂力量，胸肌力量，腿部力量
-- [ ] 31&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### November
-- [ ] 1
+- [x] 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂力量，胸肌力量
 - [ ] 2
 - [ ] 3
 - [ ] 4
