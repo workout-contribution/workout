@@ -39,18 +39,18 @@
 
 #### November
 - [x] 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂力量，胸肌力量
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9
-- [ ] 10
-- [ ] 11
-- [ ] 12
-- [ ] 13
+- [x] 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂力量，胸肌力量，腿部力量
+- [ ] 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [ ] 13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 14
 - [ ] 15
 - [ ] 16
