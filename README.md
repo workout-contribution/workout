@@ -41,7 +41,7 @@
 - [x] 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂力量，胸肌力量
 - [x] 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂力量，胸肌力量，腿部力量
 - [ ] 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- [ ] 4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，胸肌，跑步
 - [ ] 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
