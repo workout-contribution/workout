@@ -42,7 +42,7 @@
 - [x] 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂力量，胸肌力量，腿部力量
 - [ ] 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [x] 4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，胸肌，跑步
-- [ ] 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，胸肌，腿部拉伸，快走30min
 - [ ] 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
