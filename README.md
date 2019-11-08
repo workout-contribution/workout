@@ -45,7 +45,7 @@
 - [x] 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，胸肌，腿部拉伸，快走30min
 - [ ] 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [x] 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，胸肌，腿部拉伸
-- [ ] 8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，胸肌，腿部拉伸，跑步
 - [ ] 9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
