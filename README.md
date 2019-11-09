@@ -46,7 +46,7 @@
 - [ ] 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [x] 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，胸肌，腿部拉伸
 - [x] 8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，胸肌，腿部拉伸，跑步
-- [ ] 9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，胸肌，腿部拉伸，跑步
 - [ ] 10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
