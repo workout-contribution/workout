@@ -48,7 +48,7 @@
 - [x] 8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，胸肌，腿部拉伸，跑步
 - [x] 9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，胸肌，腿部拉伸，跑步
 - [ ] 10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- [ ] 11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爬坡
 - [ ] 12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 14
