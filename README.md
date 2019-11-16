@@ -52,7 +52,7 @@
 - [x] 12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;乒乓球，手臂，胸肌，腿部
 - [ ] 13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [x] 14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，腹肌，腿部拉伸，有氧跑步（含6分钟12.5mile/h），乒乓球🏓正反拉爆发训练
-- [ ] 15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，腹肌，腿部拉伸
 - [ ] 16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
