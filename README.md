@@ -56,7 +56,7 @@
 - [x] 16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;乒乓球，台球
 - [ ] 17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [x] 18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;拉伸，手臂，腹肌
-- [ ] 19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;拉伸，手臂，跑步
 - [ ] 20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
