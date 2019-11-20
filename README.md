@@ -57,7 +57,7 @@
 - [ ] 17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [x] 18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;拉伸，手臂，腹肌
 - [x] 19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;拉伸，手臂，跑步
-- [ ] 20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;平板支撑，俯卧撑，腹肌
 - [ ] 21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
