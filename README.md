@@ -64,7 +64,7 @@
 - [x] 24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，胸肌，腹肌，腿部
 - [ ] 25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- [ ] 27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，胸肌，腹肌
 - [ ] 28&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 29&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
