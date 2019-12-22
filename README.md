@@ -91,7 +91,7 @@
 - [ ] 19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- [ ] 22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，腿部，跑步
 - [ ] 23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
