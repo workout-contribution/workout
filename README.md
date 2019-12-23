@@ -92,7 +92,7 @@
 - [ ] 20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [x] 22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，腿部，跑步
-- [ ] 23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Checked
 - [ ] 24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
