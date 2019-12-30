@@ -99,7 +99,7 @@
 - [ ] 27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 28&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 29&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- [ ] 30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，腿部，跑步
 - [ ] 31&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
