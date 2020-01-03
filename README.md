@@ -29,7 +29,7 @@
 #### January
 - [x] 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，胸肌，腿部，全身（跑步）
 - [x] 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手臂，胸肌，腹肌，大腿，跑步
-- [ ] 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;懒得写了，没有水
 - [ ] 4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
