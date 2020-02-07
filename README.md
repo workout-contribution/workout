@@ -65,7 +65,7 @@
 - [ ] 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- [ ] 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;庚子年正月十三。明白，能。
 - [ ] 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
