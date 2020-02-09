@@ -68,7 +68,7 @@
 - [x] 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;庚子年正月十三。明白，能。
 - [x] 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;打卡
 - [ ] 8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- [ ] 9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Checked
 - [ ] 10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
