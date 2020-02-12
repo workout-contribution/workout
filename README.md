@@ -71,7 +71,7 @@
 - [x] 9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Checked
 - [ ] 10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- [ ] 12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Checked
 - [ ] 13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
