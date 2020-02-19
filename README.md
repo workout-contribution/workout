@@ -77,8 +77,8 @@
 - [ ] 15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [x] 16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Checked
 - [ ] 17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- [ ] 18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- [ ] 19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [x] 18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ckd
+- [x] 19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ckd
 - [ ] 20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [ ] 22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
